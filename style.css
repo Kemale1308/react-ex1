@@ -1,0 +1,13 @@
+.image-container img {
+  width: 100px;
+  margin: 5px;
+  display: none; /
+}
+.buttons span {
+  margin: 5px;
+  cursor: pointer;
+}
+.active {
+  color: green;
+  font-weight: bold;
+}
